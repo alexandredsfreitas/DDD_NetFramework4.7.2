@@ -32,4 +32,4 @@ Esta arquitetura possui um cadastro completo de produtos como exemplo de código
 - MVC Filters utilizados da maneira correta
 
 ## Colaboradores
-- [**Alexandre Freitas**](https://www.linkedin.com/in/alexandredsfreitas)
+[**Alexandre Freitas**](https://www.linkedin.com/in/alexandredsfreitas)
