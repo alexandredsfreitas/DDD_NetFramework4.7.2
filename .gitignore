@@ -3,3 +3,17 @@
 ################################################################################
 
 /src/Arquitetura.Application/bin/Debug
+/src/Arquitetura.Application/obj
+/src/Arquitetura.Domain/bin/Debug
+/src/Arquitetura.Domain/obj
+/src/Arquitetura.Infra.Crosscuting.Identity/bin/Debug
+/src/Arquitetura.Infra.Crosscuting.Identity/obj
+/src/Arquitetura.Infra.Crosscuting.IoC/bin/Debug
+/src/Arquitetura.Infra.Crosscuting.IoC/obj
+/src/Arquitetura.Infra.Crosscuting.MvcFilters/bin/Debug
+/src/Arquitetura.Infra.Crosscuting.MvcFilters/obj
+/src/Arquitetura.Infra.Crosscuting.Util/obj
+/src/Arquitetura.Infra.Data/bin/Debug
+/src/Arquitetura.Infra.Data/obj
+/src/Arquitetura.UI.Web/bin
+/src/Arquitetura.UI.Web/obj
