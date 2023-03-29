@@ -1,5 +1,7 @@
-## Sobre o projeto
-É uma arquitetura que utiliza padrões e boas práticas, criada para auxiliar a escrita de código com alta qualidade, minimizando a geração de bugs - e necessidade de manutenções futuras - e aumentando a produtividade das equipes em todos os níveis.
+## About / Sobre o projeto
+EN - It's an architecture based on Domain Driven Design that uses patterns and good practices, created to help high quality code writing, minimising bug possibilities and incrising the team productivity at all levels. 
+
+PT - É uma arquitetura que utiliza padrões e boas práticas, criada para auxiliar a escrita de código com alta qualidade, minimizando a geração de bugs - e necessidade de manutenções futuras - e aumentando a produtividade das equipes em todos os níveis.
 
 Possui um frontend criado apenas para fins demonstrativos.
 
